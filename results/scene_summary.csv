@@ -1,0 +1,8 @@
+﻿scene,frames,resolution,fps,duration_sec,depth_mean_valid_pct,depth_min_valid_pct
+S01_meat_multi_static,1054,1280x720,30.0,35.13,47.87,45.75
+S02_meat_single_static,1069,1280x720,30.0,35.6,56.45,55.19
+S03_meat_single_moving,934,1280x720,30.0,31.2,58.44,52.03
+S04_meat_multi_moving,1062,1280x720,30.0,35.53,48.55,41.1
+S05_icebox_static,1057,1280x720,30.0,35.43,47.3,41.96
+S06_icebox_moving,992,1280x720,30.0,33.03,49.22,42.4
+S07_warehouse_entry_30s,860,1280x720,30.0,28.67,55.05,40.39

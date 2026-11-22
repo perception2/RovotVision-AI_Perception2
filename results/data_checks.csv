@@ -1,0 +1,8 @@
+scene,frame_ids_match,paths_exist,sample_format_ok,timestamp_within_20ms,timestamp_metadata_match,no_duplicate_source_indices,valid_ratio_range_ok,passed
+S01_meat_multi_static,True,True,True,True,True,True,True,True
+S02_meat_single_static,True,True,True,True,True,True,True,True
+S03_meat_single_moving,True,True,True,True,True,True,True,True
+S04_meat_multi_moving,True,True,True,True,True,True,True,True
+S05_icebox_static,True,True,True,True,True,True,True,True
+S06_icebox_moving,True,True,True,True,True,True,True,True
+S07_warehouse_entry_30s,True,True,True,True,True,True,True,True
